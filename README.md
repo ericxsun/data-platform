@@ -13,7 +13,7 @@ a web site used for data exhibition
 data-crawler
 ------------
 
-crawlers for different types of data, such as sina weibo, tecent weibo, weixin, or baidu baike, and so forth.
+crawlers for different types of data, such as sina weibo, tencent weibo, weixin, or baidu baike, and so forth.
 
 
 data-visualization
